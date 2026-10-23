@@ -1,0 +1,42 @@
+Project Title
+
+Privacy Protection System Using Automatic Face Detection and Face Blurring
+
+
+Project Objective
+
+The objective is to automatically detect human faces in images, videos, or webcam streams and blur those faces to protect the identity of individuals.
+
+This type of technology is widely used in:
+
+Google Street View
+YouTube videos
+CCTV footage
+News broadcasting
+Dashcam videos
+Social media content
+Public surveillance systems
+
+
+Problem Statement
+
+Many images and videos shared online contain identifiable faces, creating privacy concerns. Manually hiding faces is time-consuming and impractical. The proposed system automatically detects and blurs faces, protecting personal privacy while preserving the rest of the visual content.
+
+
+Scope
+
+The system should work with:
+
+Image files (.jpg, .png)
+Videos (.mp4)
+Webcam/live camera
+Multiple faces
+Unknown people
+
+Software Required
+Python 3.11+
+OpenCV
+NumPy
+Matplotlib
+MediaPipe (recommended)
+Tkinter or Streamlit (optional GUI)
